@@ -28,6 +28,9 @@ If you're new, begin with one of these paths:
 - **Learn how to remix or modify a design**  
   Start with the [Getting Started Guide](docs/getting-started.md).
 
+- **See the current filesystem inventory**  
+  Open the [Repository Inventory](docs/repo-inventory.md) generated from the repo itself.
+
 - **Contribute fixes or improvements**  
   Read [Contributing](CONTRIBUTING) for workflow, file standards, and submission rules.
 
