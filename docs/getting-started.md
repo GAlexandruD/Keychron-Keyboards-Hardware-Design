@@ -7,7 +7,12 @@ This guide is for anyone opening the repository for the first time and wanting a
 Start by choosing the kind of hardware you want to explore:
 - `Q-Series/`, `Q-Pro-Series/`, `Q-HE-Series/`, `K-Pro-Series/`, `K-Max-Series/`, `K-HE-Series/`, `V-Max-Series/`, `P-HE-Series/`, and `L-Series/` for keyboard models and related parts
 - `Mice/` for mouse shell and full-model files
-- `Keycap Profiles/` for profile-specific keycap geometry
+- `Keycap Profiles/` for reference documentation about profile shapes and naming
+
+If you want actual keycap STEP files, open a model directory that includes them, such as:
+- `K-Pro-Series/K8 Pro/` for `K8-Pro-Keycap.stp`
+- `K-Max-Series/K8 Max/` for `K8-Max-Keycap.stp`
+- `K-HE-Series/K2 HE/` for Cherry-profile and OSA keycap STEP files
 
 If you are just browsing, start with a single model instead of the whole repository.
 

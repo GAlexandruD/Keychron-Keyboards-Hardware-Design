@@ -72,12 +72,17 @@ Q-Pro-Series/
   Q1 Pro/               — Wireless Q-series hardware files
 K-Pro-Series/
   K6 Pro/               — Keyboard case, plate, stabilizer, full model
+  K8 Pro/               — Example model folder with `K8-Pro-Keycap.stp`
 V-Max-Series/
   V1 Max/               — Tri-mode keyboard hardware files
+K-Max-Series/
+  K8 Max/               — Example model folder with `K8-Max-Keycap.stp`
+K-HE-Series/
+  K2 HE/                — Example model folder with Cherry and OSA keycap STEP files
 Mice/
   M1/                   — Shell and full model
 Keycap Profiles/
-  OSA Profile/          — Profile-specific keycap geometry
+  OSA Profile/          — Reference documentation for profile shapes and terminology
   KSA Profile/
 docs/
   file-format-guide.md  — How to open and edit these files
