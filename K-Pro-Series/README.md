@@ -27,6 +27,29 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 | [K15 Pro](./K15%20Pro/README.md) | Alice Low-profile | 89-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/k15_pro) |
 | [K17 Pro](./K17%20Pro/README.md) | 96% Low-profile | 104-key | — | [Link](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/k17_pro) |
 
+## Current Product Lineup
+
+As of April 9, 2026, the Keychron K Pro collection includes the following K Pro products:
+
+- [K1 Pro](https://www.keychron.com/products/keychron-k1-pro-qmk-via-wireless-custom-mechanical-keyboard)
+- [K2 Pro](https://www.keychron.com/products/keychron-k2-pro-qmk-via-wireless-mechanical-keyboard)
+- [K3 Pro](https://www.keychron.com/products/keychron-k3-pro-qmk-via-wireless-custom-mechanical-keyboard)
+- [K4 Pro](https://www.keychron.com/products/keychron-k4-pro-qmk-via-wireless-mechanical-keyboard)
+- [K5 Pro](https://www.keychron.com/products/keychron-k5-pro-qmk-via-wireless-custom-mechanical-keyboard)
+- [K6 Pro](https://www.keychron.com/pages/keychron-k6-pro-qmk-via-wireless-mechanical-keyboard)
+- [K7 Pro](https://www.keychron.com/products/keychron-k7-pro-qmk-via-wireless-custom-mechanical-keyboard)
+- [K8 Pro](https://www.keychron.com/products/keychron-k8-pro-qmk-via-wireless-mechanical-keyboard)
+- [K9 Pro](https://www.keychron.com/products/keychron-k9-pro-qmk-via-wireless-custom-mechanical-keyboard)
+- [K10 Pro](https://www.keychron.com/products/keychron-k10-pro-qmk-via-wireless-mechanical-keyboard/)
+- [K11 Pro](https://www.keychron.com/products/keychron-k11-pro-alice-layout-qmk-via-wireless-custom-mechanical-keyboard)
+- [K12 Pro](https://www.keychron.com/products/keychron-k12-pro-qmk-via-wireless-mechanical-keyboard)
+- [K13 Pro](https://www.keychron.com/products/keychron-k13-pro-qmk-via-wireless-custom-mechanical-keyboard)
+- [K14 Pro](https://www.keychron.com/products/keychron-k14-pro-qmk-via-wireless-mechanical-keyboard)
+- [K15 Pro](https://www.keychron.com/products/keychron-k15-pro-alice-layout-qmk-via-wireless-custom-mechanical-keyboard)
+- [K17 Pro](https://www.keychron.com/products/keychron-k17-pro-alice-layout-qmk-via-wireless-custom-mechanical-keyboard)
+
+If there is a K Pro series model or variant you would like to see added to this repository, please contact Keychron or [open a file request](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/issues/new?template=file-request.yml).
+
 ## Download Files
 
 | File | Description | Format |
