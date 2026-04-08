@@ -13,6 +13,21 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 | [Q5 HE](./Q5%20HE/README.md) | 96% | 97-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/q5_he) |
 | [Q6 HE](./Q6%20HE/README.md) | Full-size | 104-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/q6_he) |
 
+## Current Product Lineup
+
+As of April 8, 2026, the Keychron Q HE collection includes the following Q HE products:
+
+- [Q0 HE](https://www.keychron.com/products/keychron-q0-he-qmk-wireless-custom-number-pad)
+- [Q1 HE](https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard)
+- [Q1 HE Copper Edition](https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard-copper-edition)
+- [Q3 HE](https://www.keychron.com/products/keychron-q3-he-qmk-wireless-custom-keyboard)
+- [Q4 HE](https://www.keychron.com/products/keychron-q4-he-qmk-wireless-custom-keyboard)
+- [Q5 HE](https://www.keychron.com/products/keychron-q5-he-qmk-wireless-custom-keyboard)
+- [Q6 HE](https://www.keychron.com/products/keychron-q6-he-qmk-wireless-custom-keyboard)
+- [Q12 HE](https://www.keychron.com/products/keychron-q12-he-qmk-wireless-custom-keyboard)
+
+If there is a Q HE model or variant you would like to see added to this repository, please contact Keychron or [open a file request](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/issues/new?template=file-request.yml).
+
 ## Download Files
 
 | File | Description | Format |
