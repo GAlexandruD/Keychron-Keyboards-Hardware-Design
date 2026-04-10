@@ -2,6 +2,10 @@
 
 > Full-size wireless Q-series keyboard files for the Q6 Max, including enclosure parts, plate drawings, stabilizers, and assembled models.
 
+**Product page:** [Keychron Q6 Max](https://www.keychron.com/products/keychron-q6-max-qmk-via-wireless-custom-mechanical-keyboard)
+
+![Q6 Max](https://www.keychron.com/cdn/shop/files/Q6-Max-Carbon-Black.jpg?v=1753252758)
+
 ## Included Files
 
 | File | Description |
