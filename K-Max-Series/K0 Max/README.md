@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron K0 Max](https://www.keychron.com/products/keychron-k0-max-qmk-wireless-custom-number-pad)
 
+![K0 Max](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron_K0_Max_Numpad_Layout_QMK_VIA_Wireless_Custom_Mechanical_Keyboard_1.jpg?v=1751204036)
+
 ## Specifications
 
 | Spec | Detail |
