@@ -2,7 +2,7 @@
 
 Generated from the current filesystem using `scripts/repo_inventory.py`.
 
-- Total model directories: **102**
+- Total model directories: **108**
 - Total data files across model directories: **734**
 
 ## Series Summary
@@ -24,6 +24,7 @@ Generated from the current filesystem using `scripts/repo_inventory.py`.
 | Keycap Profiles | 6 | 5 |
 | C-Pro-8K-Series | 3 | 10 |
 | K-QMK-Series | 1 | 7 |
+| Q-HE-8K-Series | 6 | 0 |
 
 ## Per-Model Manifests
 
@@ -740,4 +741,46 @@ Generated from the current filesystem using `scripts/repo_inventory.py`.
 - Data files: 7
 - README present: yes
 - Extensions: `.dwg` x1, `.dxf` x1, `.md` x1, `.pdf` x1, `.stp` x4
+
+### Q-HE-8K-Series / Q1 HE 8K
+
+- Path: `Q-HE-8K-Series/Q1 HE 8K`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### Q-HE-8K-Series / Q16 HE 8K
+
+- Path: `Q-HE-8K-Series/Q16 HE 8K`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### Q-HE-8K-Series / Q2 HE 8K
+
+- Path: `Q-HE-8K-Series/Q2 HE 8K`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### Q-HE-8K-Series / Q3 HE 8K
+
+- Path: `Q-HE-8K-Series/Q3 HE 8K`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### Q-HE-8K-Series / Q5 HE 8K
+
+- Path: `Q-HE-8K-Series/Q5 HE 8K`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### Q-HE-8K-Series / Q6 HE 8K
+
+- Path: `Q-HE-8K-Series/Q6 HE 8K`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
 
