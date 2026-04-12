@@ -71,7 +71,7 @@ If you're new, begin with one of these paths:
 | **Q Pro Series** | Keyboard | Q1 Pro–Q14 Pro (10 models) | Case, Plate, Encoder, Full Model, Stabilizer, KSA Keycap |
 | **Q HE Series** | Hall Effect | Q0 HE, Q1 HE, Q2 HE, Q3 HE, Q4 HE, Q5 HE, Q6 HE, Q12 HE | Published files for selected models; newer Q HE folders also include README/model pages for future CAD uploads |
 | **Q HE 8K Series** | Hall Effect | Q1 HE 8K, Q2 HE 8K, Q3 HE 8K, Q5 HE 8K, Q6 HE 8K, Q16 HE 8K | README/model pages prepared for future CAD uploads |
-| **Q Max Series** | Keyboard | Q6 Max | Case, Plate, Full Model, Stabilizer |
+| **Q Max Series** | Keyboard | Q0 Max, Q1 Max, Q2 Max, Q3 Max, Q5 Max, Q6 Max, Q8 Max, Q10 Max, Q12 Max, Q13 Max, Q14 Max, Q15 Max | Published CAD files for Q6 Max; README/model pages prepared for the others |
 | **Q Ultra 8K Series** | Keyboard | Q1 Ultra 8K, Q3 Ultra 8K, Q5 Ultra 8K, Q6 Ultra 8K, Q13 Ultra 8K | Published plate files for Q6 Ultra 8K; README/model pages prepared for the others |
 | **K Pro Series** | Keyboard | K1 Pro–K17 Pro (16 models) | Case, Plate, Full Model, Stabilizer |
 | **K Max Series** | Keyboard | K0 Max, K1 Max–K17 Max (12 models) | Case, Plate, Full Model, Stabilizer, Keycap on selected models |
@@ -84,7 +84,7 @@ If you're new, begin with one of these paths:
 | **P HE Series** | Hall Effect | P1 HE, P2 HE, P3 HE | Published files for P1 HE; README/model pages prepared for P2 HE and P3 HE |
 | **Mouse Series** | Mouse | M1–M7, G1, G2 (11 models) | Shell, Full Model |
 
-**116 device models. 734+ design files. Source-available. Accessory-friendly.**
+**127 device models. 734+ design files. Source-available. Accessory-friendly.**
 ![Keychron keyboards structure design](docs/assets/keychron-keyboards-structures.webp)
 
 ## Directory Structure
@@ -101,7 +101,7 @@ Q-HE-8K-Series/
 Q-Pro-Series/
   Q1 Pro/               — Wireless Q-series hardware files across 10 models
 Q-Max-Series/
-  Q6 Max/               — Wireless Q-series case, plate, full model, and stabilizer files
+  Q0 Max/               — README and product page reference, with Q1, Q2, Q3, Q5, Q6, Q8, Q10, Q12, Q13, Q14, and Q15 Max model folders also present
 Q-Ultra-8K-Series/
   Q1 Ultra 8K/          — README and product page reference, ready for future CAD uploads alongside Q3, Q5, Q6, and Q13 Ultra 8K
 K-Pro-Series/
